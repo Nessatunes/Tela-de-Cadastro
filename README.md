@@ -1,4 +1,4 @@
-<h1>Projeto Tela de Loguin!</h1>
+<h1>Projeto Tela de Login!</h1>
 <h2>✏️ Descrição:</h2>
 <p>O projeto é simples, consiste em uma tela de loguin e cadastro</p>
 <h2>:computer:Tecologias Utilizadas:</h2>
